@@ -1,7 +1,7 @@
 {
   "name": "react-16-noscript",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic project to test React 16.1.0-beta and use of the <noscript> tag.",
   "main": "dist/server/index.js",
   "scripts": {
     "test": "",
